@@ -13708,6 +13708,7 @@ Tyler Strang
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
 - [hongwen000]
 - [Dominika Malinowska](https://github.com/doma1991)
+- [Andrei Ionita](https://github.com/Andrei-Ionita)
 - [Liz Burton](https://github.com/lizbur10)
 - [Jessie215]
 - Varghese T Mathew
